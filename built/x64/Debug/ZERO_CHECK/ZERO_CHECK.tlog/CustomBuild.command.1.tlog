@@ -1,0 +1,10 @@
+^C:\KEK\REP\SERIOZNIY\BUILT\CMAKEFILES\681D81465E6D1A6196588C0F6736BC2A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/KEK/rep/Seriozniy -BC:/KEK/rep/Seriozniy/built --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/KEK/rep/Seriozniy/built/Seriozniy.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

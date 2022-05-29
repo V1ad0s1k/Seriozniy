@@ -1,0 +1,6 @@
+C:/KEK/rep/Seriozniy/built/CMakeFiles/Seriozniy.dir
+C:/KEK/rep/Seriozniy/built/CMakeFiles/ALL_BUILD.dir
+C:/KEK/rep/Seriozniy/built/CMakeFiles/ZERO_CHECK.dir
+C:/KEK/rep/Seriozniy/built/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/KEK/rep/Seriozniy/built/external/glfw/src/CMakeFiles/glfw.dir
+C:/KEK/rep/Seriozniy/built/external/glfw/src/CMakeFiles/update_mappings.dir
